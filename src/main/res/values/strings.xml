@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QUIZ_APPLICATION</string>
+    <string-array name="QUESTION_T">
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+    <string-array name="QUESTION_ANSWERS">
+        <item>A</item>
+        <item>B</item>
+        <item>D</item>
+        <item>C</item>
+        <item>D</item>
+        <item>A</item>
+        <item>A</item>
+        <item>C</item>
+        <item>B</item>
+        <item>B</item>
+        <item>D</item>
+    </string-array>
+
+</resources>
